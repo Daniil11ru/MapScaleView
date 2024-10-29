@@ -12,5 +12,3 @@ android {
 dependencies {
     compileOnly 'androidx.annotation:annotation:1.1.0'
 }
-
-apply from: '../upload-jcenter.gradle'
