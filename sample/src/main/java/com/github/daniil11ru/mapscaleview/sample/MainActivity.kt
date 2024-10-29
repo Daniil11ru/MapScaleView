@@ -1,4 +1,4 @@
-package com.github.pengrad.mapscaleview.sample
+package com.github.daniil11ru.mapscaleview.sample
 
 import android.content.Intent
 import android.os.Bundle

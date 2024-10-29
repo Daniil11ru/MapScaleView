@@ -1,10 +1,10 @@
-package com.github.pengrad.mapscaleview.sample
+package com.github.daniil11ru.mapscaleview.sample
 
 import android.graphics.Color
 import android.graphics.Typeface
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
-import com.github.pengrad.mapscaleview.MapScaleView
+import com.github.daniil11ru.mapscaleview.MapScaleView
 import com.mapbox.mapboxsdk.camera.CameraPosition
 import kotlin.random.Random
 

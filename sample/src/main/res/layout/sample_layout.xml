@@ -87,7 +87,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="top|end">
 
-        <com.github.pengrad.mapscaleview.MapScaleView
+        <com.github.daniil11ru.mapscaleview.MapScaleView
             android:id="@+id/scaleViewBgFixed"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
@@ -95,7 +95,7 @@
             android:background="#3333" />
 
 
-        <com.github.pengrad.mapscaleview.MapScaleView
+        <com.github.daniil11ru.mapscaleview.MapScaleView
             android:id="@+id/scaleViewBg"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -111,21 +111,21 @@
         android:layout_margin="8dp"
         android:orientation="vertical">
 
-        <com.github.pengrad.mapscaleview.MapScaleView
+        <com.github.daniil11ru.mapscaleview.MapScaleView
             android:id="@+id/scaleViewMiles"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:scale_miles="true"
             app:scale_outline="true" />
 
-        <com.github.pengrad.mapscaleview.MapScaleView
+        <com.github.daniil11ru.mapscaleview.MapScaleView
             android:id="@+id/scaleViewRtl"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:scale_color="#dc5533"
             app:scale_expandRtl="true" />
 
-        <com.github.pengrad.mapscaleview.MapScaleView
+        <com.github.daniil11ru.mapscaleview.MapScaleView
             android:id="@+id/scaleView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

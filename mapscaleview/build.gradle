@@ -4,6 +4,7 @@ android {
     compileSdkVersion 28
 
     defaultConfig {
+        applicationId "com.github.daniil11ru.mapscaleview"
         minSdkVersion 9
     }
 }

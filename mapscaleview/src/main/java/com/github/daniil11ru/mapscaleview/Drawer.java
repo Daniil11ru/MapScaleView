@@ -1,4 +1,4 @@
-package com.github.pengrad.mapscaleview;
+package com.github.daniil11ru.mapscaleview;
 
 import android.graphics.Canvas;
 import android.graphics.Paint;

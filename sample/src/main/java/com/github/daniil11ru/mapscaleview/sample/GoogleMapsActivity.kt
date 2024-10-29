@@ -1,4 +1,4 @@
-package com.github.pengrad.mapscaleview.sample
+package com.github.daniil11ru.mapscaleview.sample
 
 import android.os.Bundle
 import com.google.android.gms.maps.CameraUpdateFactory
